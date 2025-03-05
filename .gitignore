@@ -1,0 +1,56 @@
+﻿# Visual Studio 相關
+.vs/
+*.suo
+*.user
+*.exe
+*.dll
+*.pdb
+*.cache
+*.obj
+*.log
+*.ilk
+*.ipch
+*.iobj
+*.iobj.*
+*.ipdb
+*.ncb
+*.sdf
+*.opensdf
+*.tlog
+*.VC.db
+*.ico
+
+# Bin 和 Obj 資料夾（編譯產物，不要提交）
+bin/
+obj/
+[Bb]in/
+[Oo]bj/
+
+# NuGet Packages（讓使用者用 `nuget restore` 還原）
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# 生成的檔案
+*.csproj.user
+*.csproj.user.*
+*.csproj.vspscc
+*.vssscc
+*.builds
+*.pidb
+*.sln.ide
+*.sln.docstates
+
+# 影像處理快取
+Thumbs.db
+ehthumbs.db
+
+# Rider / ReSharper
+.idea/
+*.dotCover
+*.dotSettings*
+**/JetBrains/
+
+# Windows 內建
+Desktop.ini

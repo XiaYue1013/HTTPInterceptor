@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTPInterceptor", "HTTPInterceptor.csproj", "{AA05994F-CE43-41B9-93E8-10F6C8B7081E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA05994F-CE43-41B9-93E8-10F6C8B7081E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA05994F-CE43-41B9-93E8-10F6C8B7081E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA05994F-CE43-41B9-93E8-10F6C8B7081E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA05994F-CE43-41B9-93E8-10F6C8B7081E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {221E0E17-7A8F-4E9F-BDE9-3C91D14E3E2D}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+	  <ApplicationIcon>logo.ico</ApplicationIcon>
+	  <Version>25.3.4.2238</Version>
+	  <AssemblyVersion>25.3.4.2238</AssemblyVersion>
+	  <FileVersion>25.3.4.2238</FileVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Titanium.Web.Proxy" Version="3.2.0" />
+  </ItemGroup>
+
+	<ItemGroup>
+		<Content Include="logo.ico" />
+	</ItemGroup>
+
+</Project>
