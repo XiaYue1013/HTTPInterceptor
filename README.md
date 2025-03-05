@@ -1,4 +1,4 @@
 # HTTPInterceptor
- A simple HTTP/HTTPS intercetor with proxy.
+ A simple HTTP/HTTPS interceptor with proxy.
 
 ![ScreenShot](src/image.png)
